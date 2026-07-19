@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-### 🔴 Live Demo: **[ADD-YOUR-STREAMLIT-URL-HERE]**
+### Live Demo: **[retail-analytic-dashboard.streamlit.app](https://retail-analytic-dashboard.streamlit.app/?embed=true)**
 
 ---
 
